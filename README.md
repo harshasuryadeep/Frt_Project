@@ -54,9 +54,11 @@ This is a web based application developed for the purpose of Providing Demanding
   Contact:
   <img width="960" alt="Contact us" src="https://github.com/harshasuryadeep/Frt_Project/assets/138498737/972b1e58-202a-440b-abc3-5c718c07676b">
 
-  ## Technologies Used:
+  ## Azure Technologies Used:
   Microsoft Azure Static web apps
   Microsoft Azure Bot service
+
+  ## Web Technologies Used:
   HTML
   CSS
   JAVASCRIPT
