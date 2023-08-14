@@ -57,9 +57,10 @@ This is a web based application developed for the purpose of Providing Demanding
   ## Azure Technologies Used:
   Microsoft Azure Static web apps
   Microsoft Azure Bot service
+  Language Understanding
 
   ## Web Technologies Used:
-  HTML
-  CSS
-  JAVASCRIPT
-  BOOTSTRAP
+  HTML,
+  CSS,
+  JAVASCRIPT,
+  BOOTSTRAP,
