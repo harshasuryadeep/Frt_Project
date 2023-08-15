@@ -5,7 +5,7 @@ Future Ready Talent Project by Harsha Surya Deep
 This is a web based application developed for the purpose of Providing Demanding courses at nominal costs for students and working professionals who wish to upskill themselves .
 
 ## Project Link :  https://green-smoke-00a289500.3.azurestaticapps.net
-## Project Demo Video URL : 
+## Project Demo Video URL :  https://youtu.be/oAMXlOKhB-M
 
 
 ## Features and Functionalties
@@ -17,6 +17,21 @@ This is a web based application developed for the purpose of Providing Demanding
 - Users who also wish to mentor fellow students can send their mail address given at bottom right of webpage.
 
   ## Screenshots:-
+  Azure Portal Static Web Apps Deployement(Azure Technology Used :Static Web Apps):
+  
+  <img width="960" alt="azurepo" src="https://github.com/harshasuryadeep/Frt_Project/assets/138498737/16656475-4ee3-4957-8af2-bc20654edbb4">
+
+  Knowledge base for Bot(Azure Technology used : Language Understanding):
+   <img width="224" alt="kb" src="https://github.com/harshasuryadeep/Frt_Project/assets/138498737/a2762a55-5184-4d68-81c3-7d041f939b87">
+
+   
+<img width="224" alt="kb1" src="https://github.com/harshasuryadeep/Frt_Project/assets/138498737/5e367e7d-ea78-4e73-8aad-b365e306d32b">
+
+Bot Service(Azure Technology Used : Azure Bot Service):
+
+
+<img width="960" alt="Botservice" src="https://github.com/harshasuryadeep/Frt_Project/assets/138498737/5c66444f-9795-4850-8921-35d0381ee244">
+
   Homepage:
   <img width="959" alt="home" src="https://github.com/harshasuryadeep/Frt_Project/assets/138498737/a1c61ba6-528c-431c-ae8f-57a7cd6364aa">
 
@@ -55,12 +70,12 @@ This is a web based application developed for the purpose of Providing Demanding
   <img width="960" alt="Contact us" src="https://github.com/harshasuryadeep/Frt_Project/assets/138498737/972b1e58-202a-440b-abc3-5c718c07676b">
 
   ## Azure Technologies Used:
-  Microsoft Azure Static web apps
-  Microsoft Azure Bot service
-  Language Understanding
+  Microsoft Azure Static web apps,
+  Microsoft Azure Bot service,
+  Language Understanding.
 
   ## Web Technologies Used:
   HTML,
   CSS,
   JAVASCRIPT,
-  BOOTSTRAP,
+  BOOTSTRAP.
