@@ -21,12 +21,18 @@ This is a web based application developed for the purpose of Providing Demanding
   
   <img width="960" alt="azurepo" src="https://github.com/harshasuryadeep/Frt_Project/assets/138498737/16656475-4ee3-4957-8af2-bc20654edbb4">
 
-  Knowledge base for Bot(Azure Technology used : Language Understanding):
+ Knowledge base for Bot(Azure Technology used : Language Understanding):
+
+ 
+<img width="959" alt="Bs2" src="https://github.com/harshasuryadeep/Frt_Project/assets/138498737/354e99a6-11e7-4f76-bc94-c3de05d36b1b">
+
   
-<img width="224" alt="kb" src="https://github.com/harshasuryadeep/Frt_Project/assets/138498737/a2762a55-5184-4d68-81c3-7d041f939b87">
+  <img width="224" alt="kb" src="https://github.com/harshasuryadeep/Frt_Project/assets/138498737/a2762a55-5184-4d68-81c3-7d041f939b87">
 
    
 <img width="224" alt="kb1" src="https://github.com/harshasuryadeep/Frt_Project/assets/138498737/5e367e7d-ea78-4e73-8aad-b365e306d32b">
+
+
 
 Bot Service(Azure Technology Used : Azure Bot Service):
 
