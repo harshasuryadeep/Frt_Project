@@ -34,6 +34,12 @@ This is a web based application developed for the purpose of Providing Demanding
 
 
 
+
+<img width="217" alt="latets5678" src="https://github.com/harshasuryadeep/Frt_Project/assets/138498737/0e35fb51-ff74-4c26-8ba3-7cd90901779e">
+
+
+
+
 Bot Service(Azure Technology Used : Azure Bot Service):
 
 
