@@ -1,6 +1,6 @@
 # 🧑‍🎓 Mentor Website
 
-Future Ready Talent Project by Harsha Surya Deep
+Future Ready Talent Project by Harsha Surya Deep Attada
 
 This is a web based application developed for the purpose of Providing Demanding courses at nominal costs for students and working professionals who wish to upskill themselves .
 
