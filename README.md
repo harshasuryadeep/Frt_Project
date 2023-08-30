@@ -55,22 +55,7 @@ Bot Service(Azure Technology Used : Azure Bot Service):
   <img width="960" alt="Courses" src="https://github.com/harshasuryadeep/Frt_Project/assets/138498737/2c583af5-dc51-42f3-9fd1-592c20f06efd">
 
   
-  
-  Trainers:
-  <img width="960" alt="Trainers" src="https://github.com/harshasuryadeep/Frt_Project/assets/138498737/0cdd9d23-1bcd-438b-85a7-a2e76cdb10a0">
-
-  
-  Events:
-  <img width="960" alt="Events" src="https://github.com/harshasuryadeep/Frt_Project/assets/138498737/b3049d23-56d4-410c-9e48-756b654fbd0e">
-
-  
-  
-  Pricing:
-  <img width="960" alt="pricing" src="https://github.com/harshasuryadeep/Frt_Project/assets/138498737/72a7c644-cd7b-491a-a756-0bff63804489">
-
-  
-  
-  MentorBot:
+   MentorBot:
   
   <img width="958" alt="bot1" src="https://github.com/harshasuryadeep/Frt_Project/assets/138498737/e8fe8c80-42fc-4686-ba06-1ef6eb8a693f">
   
