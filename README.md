@@ -45,28 +45,21 @@ Bot Service(Azure Technology Used : Azure Bot Service):
 <img width="960" alt="Botservice" src="https://github.com/harshasuryadeep/Frt_Project/assets/138498737/5c66444f-9795-4850-8921-35d0381ee244">
 
   Homepage:
-  <img width="959" alt="home" src="https://github.com/harshasuryadeep/Frt_Project/assets/138498737/a1c61ba6-528c-431c-ae8f-57a7cd6364aa">
+  
 
   About us:
-  <img width="956" alt="About" src="https://github.com/harshasuryadeep/Frt_Project/assets/138498737/5e0833e0-7f8d-4b59-ba57-c23c9e98d286">
+ 
 
   Courses:
-  <img width="960" alt="Courses" src="https://github.com/harshasuryadeep/Frt_Project/assets/138498737/2c583af5-dc51-42f3-9fd1-592c20f06efd">
+ 
 
   
    MentorBot:
   
-  <img width="958" alt="bot1" src="https://github.com/harshasuryadeep/Frt_Project/assets/138498737/e8fe8c80-42fc-4686-ba06-1ef6eb8a693f">
-  
-<img width="954" alt="bot2" src="https://github.com/harshasuryadeep/Frt_Project/assets/138498737/ca2df0d8-bb5b-44d2-be92-7d219ed8ed79">
+ 
 
-
-<img width="960" alt="bot3" src="https://github.com/harshasuryadeep/Frt_Project/assets/138498737/850756b9-105b-456f-b26b-1bd67491f5b5">
-
-  Contact:
-  <img width="960" alt="Contact us" src="https://github.com/harshasuryadeep/Frt_Project/assets/138498737/972b1e58-202a-440b-abc3-5c718c07676b">
-
-  ## Azure Technologies Used:
+ 
+ ## Azure Technologies Used:
   Microsoft Azure Static web apps,
   Microsoft Azure Bot service,
   Language Understanding.
