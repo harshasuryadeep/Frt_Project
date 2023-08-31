@@ -46,15 +46,12 @@ Bot Service(Azure Technology Used : Azure Bot Service):
 
   Homepage:
   
-
-  About us:
  
-
   Courses:
  
 
   
-   MentorBot:
+  ChatBot:
   
  
 
