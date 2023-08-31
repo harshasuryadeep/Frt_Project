@@ -6,7 +6,7 @@ This is a web based application developed for the purpose of Providing Demanding
 
 ## Project Link :  https://green-smoke-00a289500.3.azurestaticapps.net
 ## Project Demo Video URL :  https://youtu.be/HQEh8MJjHz4
-## Github Pages Link : 
+## Github Pages Link : https://harshasuryadeep.github.io/Frt_Project/
 
 
 ## Features and Functionalties
