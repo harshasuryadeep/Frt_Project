@@ -22,22 +22,21 @@ This is a web based application developed for the purpose of Providing Demanding
   <img width="960" alt="azurepo" src="https://github.com/harshasuryadeep/Frt_Project/assets/138498737/16656475-4ee3-4957-8af2-bc20654edbb4">
 
  Knowledge base for Bot(Azure Technology used : Language Understanding):
-<img width="959" alt="Bs2" src="https://github.com/harshasuryadeep/Frt_Project/assets/138498737/a8aab898-c1cd-489f-9002-ca23ed036255">
-
  
 
-  
-  <img width="224" alt="kb" src="https://github.com/harshasuryadeep/Frt_Project/assets/138498737/a2762a55-5184-4d68-81c3-7d041f939b87">
-
-   
-<img width="224" alt="kb1" src="https://github.com/harshasuryadeep/Frt_Project/assets/138498737/5e367e7d-ea78-4e73-8aad-b365e306d32b">
+<img width="599" alt="otherbot" src="https://github.com/harshasuryadeep/Frt_Project/assets/138498737/ed6fb334-74f8-4885-a97a-5b51a64e75ba">
 
 
+<img width="667" alt="bot1" src="https://github.com/harshasuryadeep/Frt_Project/assets/138498737/60665263-cedf-4c69-95bc-6299ab840a87">
 
 
-<img width="217" alt="latets5678" src="https://github.com/harshasuryadeep/Frt_Project/assets/138498737/0e35fb51-ff74-4c26-8ba3-7cd90901779e">
+<img width="680" alt="bot2" src="https://github.com/harshasuryadeep/Frt_Project/assets/138498737/942f817f-bd11-4288-a35c-3cfc114dce6e">
+
+<img width="635" alt="bot3" src="https://github.com/harshasuryadeep/Frt_Project/assets/138498737/bd8916b3-d609-4116-85cf-43c9df4558f7">
 
 
+
+<img width="631" alt="bot4" src="https://github.com/harshasuryadeep/Frt_Project/assets/138498737/94ecdc39-46da-4d35-86ed-c9202c9e5bad">
 
 
 Bot Service(Azure Technology Used : Azure Bot Service):
