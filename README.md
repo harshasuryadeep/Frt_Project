@@ -10,14 +10,12 @@ This is a web based application developed for the purpose of Providing Demanding
 
 
 ## Features and Functionalties
-- The website has an Interactive and responsive User Interface.
-- User can attend Industry events taken by eminent personalities from the website itself for free of cost
-- The website has collection of webpages like Home, About Us, Courses, Trainers, Pricing, MentorBot.
-- The Website has also has a Bot functionality that addresses frequently asked questions by users,it can also provide answers for problems that user is experiencing in real time.
-- Users can access courses of their choice in the website
+- The website has an interactive and visually appealing user interface.
+- The Website also has a Bot functionality that addresses any queries asked by users,it can also provide answers for problems that user is experiencing in real time.
+- Users can access courses of their choice in the website.
 - Users who also wish to mentor fellow students can send their mail address given at bottom right of webpage.
 
-  ## Screenshots:-
+## Screenshots:-
   Azure Portal Static Web Apps Deployement(Azure Technology Used :Static Web Apps):
   
   <img width="960" alt="azurepo" src="https://github.com/harshasuryadeep/Frt_Project/assets/138498737/16656475-4ee3-4957-8af2-bc20654edbb4">
