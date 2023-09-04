@@ -38,6 +38,9 @@ This is a web based application developed for the purpose of Providing Demanding
 <img width="631" alt="bot4" src="https://github.com/harshasuryadeep/Frt_Project/assets/138498737/94ecdc39-46da-4d35-86ed-c9202c9e5bad">
 
 
+<img width="283" alt="bye" src="https://github.com/harshasuryadeep/Frt_Project/assets/138498737/c2c8a97e-66ff-4725-b4b0-b18f32fb86f8">
+
+
 Bot Service(Azure Technology Used : Azure Bot Service):
 
 
