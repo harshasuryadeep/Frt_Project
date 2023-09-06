@@ -4,9 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Login/Signup Page</title>
-    <style>
-        /* Your CSS styles here */
-    </style>
 </head>
 <body>
     <div class="container">
@@ -45,14 +42,14 @@
 
     <script>
         function attemptLogin() {
-            // Replace this with your actual login logic
+           
             var username = document.getElementById('login-username').value;
             var password = document.getElementById('login-password').value;
 
-            // Simulate a successful login for demonstration purposes
+            
             if (username === 'demo' && password === 'demo') {
                 alert('Login successful');
-                window.location.href = 'index.html'; // Redirect to the dashboard page
+                window.location.href = 'index.html'; 
             } else {
                 alert('Login successful');
                 window.location.href = 'index.html';
@@ -65,10 +62,9 @@
             var newPassword = document.getElementById('signup-password').value;
             var confirmPassword = document.getElementById('confirm-password').value;
 
-            // Simulate a successful signup for demonstration purposes
+           
             if (newPassword === confirmPassword) {
                 alert('Signup successful');
-                // You can redirect the user to the login page or another page after signup
             } else {
                 alert('Signup failed. Passwords do not match.');
             }
