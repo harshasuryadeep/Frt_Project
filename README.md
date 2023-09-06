@@ -47,21 +47,26 @@ Bot Service(Azure Technology Used : Azure Bot Service):
 <img width="960" alt="Botservice" src="https://github.com/harshasuryadeep/Frt_Project/assets/138498737/5c66444f-9795-4850-8921-35d0381ee244">
 
   Homepage:
-  <img width="960" alt="homepage" src="https://github.com/harshasuryadeep/Frt_Project/assets/138498737/2ae83246-cef5-49b9-a3bf-36eeb2972d09">
 
+<img width="960" alt="Screenshot 2023-09-06 143420" src="https://github.com/harshasuryadeep/Frt_Project/assets/138498737/b6e5428f-94e8-4d0a-943e-ee98ad265e82">
+
+
+
+<img width="960" alt="Screenshot 2023-09-06 143505" src="https://github.com/harshasuryadeep/Frt_Project/assets/138498737/cc710a64-1e99-41e4-92be-12312751b092">
+
+
+<img width="948" alt="Screenshot 2023-09-06 143541" src="https://github.com/harshasuryadeep/Frt_Project/assets/138498737/c9cd66cc-df34-4712-a3c6-f9eab4585a24">
+
+
+<img width="960" alt="Screenshot 2023-09-06 143610" src="https://github.com/harshasuryadeep/Frt_Project/assets/138498737/039b59fc-2794-49a1-a1ff-a093f67d7114">
+
+
+
+<img width="960" alt="Screenshot 2023-09-06 143632" src="https://github.com/harshasuryadeep/Frt_Project/assets/138498737/cb806a82-e2b9-4265-9c8a-e3951e8acf09">
+
+ChatBot:
   
-<img width="960" alt="hompeage" src="https://github.com/harshasuryadeep/Frt_Project/assets/138498737/cd0e1729-bb8a-425f-9182-a0440cb32970">
-
-
-<img width="960" alt="courses" src="https://github.com/harshasuryadeep/Frt_Project/assets/138498737/d4542389-4030-4d76-ae1a-8efe44d5ca34">
-
-
-<img width="960" alt="homepa" src="https://github.com/harshasuryadeep/Frt_Project/assets/138498737/b9ecbe8f-0252-4d95-81d8-d369ee945a90">
-
-  ChatBot:
-  
-  
- <img width="959" alt="chat" src="https://github.com/harshasuryadeep/Frt_Project/assets/138498737/bde79986-7182-41ea-8398-9d9e0618c201">
+<img width="959" alt="chat" src="https://github.com/harshasuryadeep/Frt_Project/assets/138498737/bde79986-7182-41ea-8398-9d9e0618c201">
  
 <img width="505" alt="chat2" src="https://github.com/harshasuryadeep/Frt_Project/assets/138498737/e3340328-1de2-4fb6-8648-b6512c25bce9">
 
