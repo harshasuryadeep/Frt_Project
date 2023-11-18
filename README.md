@@ -4,8 +4,6 @@ Future Ready Talent Project by Harsha Surya Deep Attada
 
 This is a web based application developed for the purpose of Providing Demanding courses absolutely free of cost for students and working professionals who wish to upskill themselves .
 
-## Project Link :  https://green-smoke-00a289500.3.azurestaticapps.net
-## Project Demo Video URL :  https://youtu.be/HQEh8MJjHz4
 ## Github Pages Link : https://harshasuryadeep.github.io/Frt_Project/
 
 
